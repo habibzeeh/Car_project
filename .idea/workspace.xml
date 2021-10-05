@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="403a49c4-be2b-4465-b91d-511f8c6f0cd5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copart_scrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/copart_scrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/copart.js" beforeDir="false" afterPath="$PROJECT_DIR$/scrap/copart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/scrap/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class=&quot;fixed-button active&quot;</find>
+      <find>fixed</find>
+      <find>sidenav</find>
+      <find>985</find>
+      <find>row</find>
+      <find>this</find>
+      <find>User</find>
+      <find>bhum</find>
+      <find>dash</find>
+      <find>)</find>
+      <find>(</find>
+      <find>show</find>
+      <find>$err</find>
+      <find>showroom_id</find>
+      <find>container_id</find>
+      <find>request</find>
+      <find>content</find>
+      <find>&lt;?php include 'Header.php';</find>
+      <find>car_sale_chart</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>]</replace>
+      <replace>[</replace>
+      <replace>&lt;?php include 'Header.php';</replace>
+      <replace>&lt;?php include 'Header.php'; include 'Header_files.php';</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp_php_7\htdocs\CarProject\assets</dir>
+      <dir>C:\xampp_php_7\htdocs\CarProject</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/catfan/medoo" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/fabpot/goutte" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qG2KOoWn1AsiTnKfM5g9tvBhVV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp_php_7\htdocs\CarProject\manager" />
+      <recent name="C:\xampp_php_7\htdocs\CarProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp_php_7\htdocs\CarProject\manager" />
+      <recent name="C:\xampp_php_7\htdocs\CarProject\model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403a49c4-be2b-4465-b91d-511f8c6f0cd5" name="Default" comment="" />
+      <created>1614425903012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614425903012</updated>
+      <workItem from="1614425904648" duration="4453000" />
+      <workItem from="1614451137793" duration="7599000" />
+      <workItem from="1614619222145" duration="1120000" />
+      <workItem from="1614825117825" duration="2432000" />
+      <workItem from="1614861780260" duration="4792000" />
+      <workItem from="1614962766893" duration="3576000" />
+      <workItem from="1615620080264" duration="8215000" />
+      <workItem from="1615909265640" duration="761000" />
+      <workItem from="1616261116465" duration="5616000" />
+      <workItem from="1616585178302" duration="1898000" />
+      <workItem from="1616663329616" duration="6764000" />
+      <workItem from="1616691545132" duration="1104000" />
+      <workItem from="1616703106545" duration="161000" />
+      <workItem from="1616745975669" duration="10021000" />
+      <workItem from="1617029837377" duration="2298000" />
+      <workItem from="1617087311061" duration="943000" />
+      <workItem from="1618427644456" duration="198000" />
+      <workItem from="1618485336055" duration="56574000" />
+      <workItem from="1618763428575" duration="2013000" />
+      <workItem from="1618854007163" duration="997000" />
+      <workItem from="1618929697310" duration="10488000" />
+      <workItem from="1619016772852" duration="12928000" />
+      <workItem from="1619085135577" duration="1128000" />
+      <workItem from="1619092386084" duration="610000" />
+      <workItem from="1619102199007" duration="7570000" />
+      <workItem from="1619201511688" duration="244000" />
+      <workItem from="1619257189872" duration="13670000" />
+      <workItem from="1619555754809" duration="2669000" />
+      <workItem from="1619727928950" duration="7993000" />
+      <workItem from="1619740472376" duration="1951000" />
+      <workItem from="1619742773996" duration="3717000" />
+      <workItem from="1620568761843" duration="4341000" />
+    </task>
+    <task id="LOCAL-00001" summary="Database updated">
+      <created>1616691641873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616691641873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GitIgnore">
+      <created>1616694557391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616694557391</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GitIgnore">
+      <created>1616694732192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616694732192</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GitIgnore">
+      <created>1616695230121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616695230121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="GitIgnore">
+      <created>1616695305677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616695305677</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Model Updated">
+      <created>1616703142117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616703142117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Model Updated">
+      <created>1616703212806</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616703212806</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Model Updated">
+      <created>1616759640882</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616759640882</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Model Updated">
+      <created>1616759698085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616759698085</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Model Updated">
+      <created>1616777095172</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616777095172</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modules Added">
+      <created>1618744629734</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618744629734</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Modules Added">
+      <created>1619737977582</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619737977582</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Modules Added">
+      <created>1619738869728</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619738869728</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Modules Added">
+      <created>1619739017837</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739017837</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Modules Added">
+      <created>1619739329492</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739329492</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Database updated" />
+    <MESSAGE value="GitIgnore" />
+    <MESSAGE value="Model Updated" />
+    <MESSAGE value="Modules Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modules Added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="167" key="#com.intellij.fileTypes.FileTypeChooser" />
+    <state x="451" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" />
+    <state x="338" y="0" key="CommitChangelistDialog2" />
+    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" />
+  </component>
+</project>
